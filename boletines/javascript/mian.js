@@ -31,7 +31,7 @@ links.forEach(function(link){
         content.classList.add("animate__bounce");
 
         setTimeout(function(){
-            location.href = "/boletines";
+            location.href = "/boletines/index.html";
         }, 1000);
     });
 
