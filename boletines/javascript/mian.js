@@ -31,7 +31,7 @@ links.forEach(function(link){
         content.classList.add("animate__bounce");
 
         setTimeout(function(){
-            location.href = "/boletines/";
+            location.href = "/felix281201.github.com/boletines/";
         }, 1000);
     });
 
